@@ -10,8 +10,6 @@ AS AN avid reader
 I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 ```
-
-
 ## Acceptance Criteria
 
 ```md
@@ -45,3 +43,16 @@ THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 ```
+
+## Technology:
+Project is created with:
+* MongoDB
+* Express.js
+* React.js
+* Node.js
+* JavaScript
+* GraphQL API
+
+
+## Questions
+GITHub:  https://github.com/osayenko0315
